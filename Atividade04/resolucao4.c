@@ -1,0 +1,1 @@
+// o valor de w sera 16.
