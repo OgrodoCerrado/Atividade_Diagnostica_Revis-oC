@@ -1,0 +1,2 @@
+//Resposta letra A) Um vetor é um grupo sequenciado de dados do mesmo tipo que sao referenciados pelo mesmo nome
+//Resposta letra B) Uma string é uma sequencia de caracteres, assim permitindo criar nomes e frases, no C elas são vetores de caracteres terminados por /0
